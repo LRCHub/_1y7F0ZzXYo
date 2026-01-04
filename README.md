@@ -1,0 +1,100 @@
+# Justin Timberlake – Mirrors (Radio Edit)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:12.53] Aren't you somethin' to admire?
+[00:15.62] 'Cause your shine is somethin' like a mirror
+[00:18.35] And I can't help but notice
+[00:20.21] You reflect in this heart of mine
+[00:24.88] If you ever feel alone
+[00:27.67] And the glare makes me hard to find
+[00:30.82] Just know that I'm always
+[00:32.73] Parallel on the other side
+[00:45.73] 
+[00:36.32] 'Cause with your hand in my hand
+[00:38.22] And a pocket full of soul
+[00:40.09] I can tell you there's no place we couldn't go
+[00:42.81] Just put your hand on the glass
+[00:44.53] I'll be tryin' to pull you through
+[00:46.37] You just gotta be strong
+[00:58.37] 
+[00:48.85] 'Cause I don't wanna lose you now
+[00:51.32] I'm lookin' right at the other half of me
+[00:54.82] The vacancy that sat in my heart
+[00:57.68] Is a space that now you hold
+[01:01.29] Show me how to fight for now
+[01:03.70] And I'll tell you, baby, it was easy
+[01:06.73] Comin' back here to you once I figured it out
+[01:10.27] You were right here all along
+[01:24.77] 
+[01:14.56] It's like you're my mirror (o-oh)
+[01:16.99] My mirror staring back at me (o-oh, o-oh, o-oh)
+[01:20.22] I couldn't get any bigger (o-oh)
+[01:23.28] With anyone else beside of me (o-oh, o-oh, o-oh)
+[01:26.78] And now it's clear as this promise
+[01:28.96] That we're making two reflections, into one
+[01:32.53] 'Cause it's like you're my mirror (o-oh)
+[01:35.63] My mirror staring back at me, staring back at me
+[01:59.63] 
+[01:39.84] Aren't you somethin', an original?
+[01:42.77] 'Cause it doesn't seem merely assembled
+[01:45.45] And I can't help but stare, 'cause
+[01:47.49] I see truth somewhere in your eyes
+[01:51.78] Ooh, I can't ever change without you
+[01:55.13] You reflect me, I love that about you
+[01:58.06] And if I could, I would look at us all the time
+[02:21.56] 
+[02:04.10] 'Cause with your hand in my hand
+[02:05.67] And a pocket full of soul
+[02:07.18] I can tell you there's no place we couldn't go
+[02:10.01] Just put your hand on the glass
+[02:11.98] I'll be tryin' to pull you through
+[02:13.40] You just gotta be strong
+[02:25.40] 
+[02:15.96] 'Cause I don't wanna lose you now
+[02:18.54] I'm lookin' right at the other half of me
+[02:21.96] The vacancy that sat in my heart
+[02:24.77] Is a space that now you hold
+[02:28.47] Show me how to fight for now
+[02:31.14] And I'll tell you, baby, it was easy
+[02:33.97] Comin' back here to you once I figured it out
+[02:37.37] You were right here all along (oh)
+[02:54.37] 
+[02:41.38] It's like you're my mirror (o-oh)
+[02:44.23] My mirror staring back at me (o-oh, o-oh, o-oh)
+[02:47.23] I couldn't get any bigger (o-oh)
+[02:50.48] With anyone else beside of me (o-oh, o-oh, o-oh)
+[02:53.56] And now it's clear as this promise
+[02:56.22] That we're making two reflections into one
+[02:59.87] 'Cause it's like you're my mirror (o-oh)
+[03:03.02] My mirror staring back at me, staring back at me
+[03:27.02] 
+[03:11.46] Yesterday is history, oh
+[03:23.46] 
+[03:17.50] Tomorrow's a mystery, ohh
+[03:23.57] I can see you lookin' back at me
+[03:25.93] Keep your eyes on me
+[03:28.46] Baby, keep your eyes on me
+[03:41.46] 
+[03:30.76] 'Cause I don't wanna lose you now
+[03:33.31] I'm lookin' right at the other half of me
+[03:37.19] The vacancy that sat in my heart
+[03:39.63] Is a space that now you hold (no)
+[03:43.22] Show me how to fight for now (please show me, baby)
+[03:46.27] I'll tell you, baby, it was easy
+[03:48.92] Comin' back here to you once I figured it out
+[03:52.23] You were right here all along
+[04:06.73] 
+[03:56.64] It's like you're my mirror (o-oh)
+[03:59.03] My mirror staring back at me (o-oh, o-oh, o-oh)
+[04:02.19] I couldn't get any bigger (o-oh)
+[04:05.29] With anyone else beside of me (o-oh, o-oh, o-oh)
+[04:08.39] And now it's clear as this promise
+[04:10.96] That we're making two reflections into one
+[04:14.56] 'Cause it's like you're my mirror (o-oh)
+[04:17.73] My mirror staring back at me, staring back at me
+[04:41.73] 
+[04:21.94] O-o-oh (o-oh), o-o-oh (o-oh, o-oh, o-oh)
+[04:29.74] Hey (o-oh, o-oh, o-oh, o-oh)
+```
