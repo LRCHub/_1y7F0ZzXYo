@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Mirrors (Radio Edit)",
+  "base_artist": "Justin Timberlake",
+  "createdAt": "2026-01-04T15:02:46.852341Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mirrors - Radio Edit",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/01_Mirrors_-_Radio_Edit_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mirrors (Radio Edit)",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/02_Mirrors_(Radio_Edit)_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mirrors (Radio Edit)",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/03_Mirrors_(Radio_Edit)_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mirrors (Radio Edit)",
+      "artist": "Justin Timberlake",
+      "has_synced": false,
+      "path": "select/04_Mirrors_(Radio_Edit)_Justin_Timberlake.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mirrors (Radio Edit)",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/05_Mirrors_(Radio_Edit)_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mirrors (Radio Edit)",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/06_Mirrors_(Radio_Edit)_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mirrors (Radio Edit)",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/07_Mirrors_(Radio_Edit)_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mirrors - Radio Edit",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/08_Mirrors_-_Radio_Edit_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mirrors (Radio Edit)",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/09_Mirrors_(Radio_Edit)_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mirrors (Radio Edit)",
+      "artist": "Empyre One",
+      "has_synced": true,
+      "path": "select/10_Mirrors_(Radio_Edit)_Empyre_One.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mirrors (Radio Edit)",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/11_Mirrors_(Radio_Edit)_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mirrors - Radio Edit",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/12_Mirrors_-_Radio_Edit_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mirrors (Radio Edit)",
+      "artist": "Justin Timberlake",
+      "has_synced": false,
+      "path": "select/pl_01_Mirrors_(Radio_Edit)_Justin_Timberlake.txt"
+    }
+  ]
+}
